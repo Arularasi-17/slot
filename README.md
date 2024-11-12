@@ -33,7 +33,7 @@ Execute the program using runserver command.
 
 
 	</head>
-	<body align="center" bgcolor="sky blue" >
+	<body align="center" >
 		 <center>
             <img src= "/static/logo.png" height="100" width="800">
          </center>
@@ -47,24 +47,25 @@ Execute the program using runserver command.
                 <th bgcolor="lightgray"> Wednesday </th>
                 <th bgcolor="lightgray"> Thursday </th>
                 <th bgcolor="lightgray"> Friday </th>
-                
+                <th bgcolor="lightgray"> Saturday </th>
 			</tr>
 			<tr>
 				<th bgcolor="sky blue"> 8-10 </td>
-                <td> EDM </td>
-                <td> FREE SLOT </td>
+                <td> Free SLOT </td>
+                <td> DBMS </td>
                 <td> FWAD </td>
-                <td> ALGEBRA </td>
-                <td> STATISTIC </td>
+                <td> EMBD </td>
+                <td> EMBD </td>
+                <td> MATH </td>
 			</tr>
 			<tr>
                 <th bgcolor="sky blue"> 10-12 </th>
-				<td> FREE SLOT </td>
-                <td> ALGEBRA </td>
-                <td> STATISTIC </td>
-                <td> ALGEBRA</td>
-                <td> INTRO TO DS </td>
-                
+				<td> CN </td>
+                <td> FWAD </td>
+                <td> EDM </td>
+                <td> SNM </td>
+                <td> ANT </td>
+                <td> DS </td>
 			</tr>
 			<tr>
                 <th bgcolor="sky blue"> 12-1 </th>
@@ -72,19 +73,21 @@ Execute the program using runserver command.
 			</tr>
 			<tr>
                 <th bgcolor="sky blue"> 1-3 </th>
+                <td> FWAD </td>
+                <td> DBMS </td>
+                <td> DS </td>
                 <td> CN </td>
-                <td> INTRO TO DS </td>
                 <td> FREE SLOT </td>
                 <td> FREE SLOT </td>
-                <td> CN </td>
 			</tr>
 			<tr>
                 <th bgcolor="sky blue"> 3-5 </td>
                 <td> SNM </td>
-                <td> DBMS</td>
-                <td> FREESLOT </td>
-                <td> FREE SLOT </td>
+                <td> EDM </td>
                 <td> DBMS </td>
+                <td> FREE SLOT </td>
+                <td> FREE SLOT </td>
+                <td> FREE SLOT </td>
 			</tr>
 			</table>
             <br>
@@ -98,7 +101,7 @@ Execute the program using runserver command.
                 <tr>
                     <th> 1. </td>
                     <td align="center"> 19CS409 </td>
-                    <td align="center"> COMPUTER NETWORKS(CN)  </td>
+                    <td align="center"> COMPUTER NETWORKS  </td>
                 </tr>
                 <tr>
                     <th align="center"> 2. </td>
@@ -108,7 +111,7 @@ Execute the program using runserver command.
                 <tr>
                     <th align="center"> 3. </td>
                     <td align="center"> 19CS418 </td>
-                    <td align="center"> ENGINEERING AND DESIGN AND MODEL(EDM) </td>
+                    <td align="center"> EDM </td>
                 </tr>
                 <tr>
                     <th align="center"> 4. </td>
@@ -136,10 +139,11 @@ Execute the program using runserver command.
 	</body>
 
 </html>
+
 ```
 
 ## OUTPUT
-![4](https://github.com/user-attachments/assets/11c98106-c160-41bf-9f62-7ef61e5b21c3)
+![image](https://github.com/user-attachments/assets/9e852f45-6487-488e-b5cb-76b1738c5ad1)
 
 
 ## RESULT
